@@ -1,6 +1,5 @@
 import datetime
 import time
-import keyboard
 
 def getCurrentTime():
     timestring = str(datetime.datetime.now())
